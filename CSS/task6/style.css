@@ -1,0 +1,36 @@
+#profile-card {
+    width: 600px;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+    position: relative;
+}
+#profile-card img {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto 15px;
+}
+*
+{
+    box-sizing: border-box;
+    text-align: center;
+}
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding: 200px;
+}
+#status{
+    display: inline-block;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    border: 2px solid black;
+    border-radius: 10%;
+    background-color: blue
+}

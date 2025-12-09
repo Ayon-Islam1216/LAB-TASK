@@ -1,0 +1,14 @@
+#text
+{
+    width: 300px;
+    height: 200px;
+    border: 1px solid green;
+    overflow: auto;
+    overflow: visible;
+    overflow: hidden;
+    overflow: scroll;
+    padding: 10px;
+    text-align: justify;
+    margin: auto;
+
+}

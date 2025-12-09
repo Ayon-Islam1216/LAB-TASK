@@ -1,0 +1,39 @@
+#siderbar
+{
+    display: inline-block;
+    width: 20%;
+    height: 100%;
+    background-color: lightblue;
+   
+    padding: 10px;
+    border: 2px solid black;
+}
+#main
+{
+    display: inline-block;
+    width: 70%;
+    height: 100%;
+    background-color: lightgreen;
+   
+    padding: 10px;
+    border: 2px solid black;
+    float: right;
+}
+#ad
+{
+    display: inline-block;
+    width: 20%;
+    height: 100%;
+    background-color: lightblue;
+  
+    padding: 10px;
+    border: 2px solid black;
+}
+body
+{
+   display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px;
+   
+}
