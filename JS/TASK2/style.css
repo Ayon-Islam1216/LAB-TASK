@@ -1,0 +1,23 @@
+#img1{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+#btn{
+    text-align: center;
+    margin: 10px;
+}
+img{
+    height: 300px;
+    width: 400px;
+}
+#previous{
+    padding: 10px;
+    background-color: lightblue;
+    text-align: center;
+}
+#next{
+    padding: 10px;
+    background-color: lightblue;
+    text-align: center;
+}
